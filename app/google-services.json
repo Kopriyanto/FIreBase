@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "448436126280",
+    "firebase_url": "https://fir-android-cdcc1-default-rtdb.firebaseio.com",
+    "project_id": "fir-android-cdcc1",
+    "storage_bucket": "fir-android-cdcc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448436126280:android:4fdb358909405d51e74e7d",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448436126280-dis86pasd3c93burn4ou27gik5ua83ui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMzNUkHOHFVutEoXSJ3IUaH3eAzwIWHxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448436126280-dis86pasd3c93burn4ou27gik5ua83ui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448436126280:android:a62bb122e368f007e74e7d",
+        "android_client_info": {
+          "package_name": "com.example.retrofit_getapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448436126280-dis86pasd3c93burn4ou27gik5ua83ui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMzNUkHOHFVutEoXSJ3IUaH3eAzwIWHxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448436126280-dis86pasd3c93burn4ou27gik5ua83ui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
